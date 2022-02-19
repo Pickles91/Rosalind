@@ -2,7 +2,6 @@
 # Author: Steven Sommer
 # Date: 2/18/2022
 
-
 a = 4825
 b = 9741
 result = 0
