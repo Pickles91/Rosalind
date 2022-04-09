@@ -2,6 +2,13 @@
 # Author: Steven Sommer
 # Date: 2/18/2022
 
+# Problem
+# An RNA string is a string formed from the alphabet containing 'A', 'C', 'G', and 'U'.
+# Given a DNA string t corresponding to a coding strand, its transcribed RNA string u is formed by replacing all occurrences of 'T' in t with 'U' in u.
+
+#Pre-Condition: A DNA string t having length at most 1000 nt.
+#Post Condition: The transcribed RNA string of t.
+
 def count_bases1(s):
     a_count = 0
     c_count = 0
